@@ -2,3 +2,5 @@ Additional non_python libraries used in the project
 plotly - widely employed for data visualization
 pandas - used for data loading and wrangling
 openpyxl - loading .xlsx datasets
+Numpy
+Scikit-learn
