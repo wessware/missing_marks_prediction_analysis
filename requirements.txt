@@ -1,11 +1,19 @@
-plotly 
-pandas 
-openpyxl 
-numpy
-scikit-learn
-seaborn
-xgboost 
-prettytable
-tensorflow
-keras
 
+
+
+
+
+
+plotly          4.14.3
+pandas          1.2.3
+openpyxl        3.0.7 
+numpy           1.19.5
+scikit-learn    0.24.2
+xgboost         1.4.2
+prettytable     2.1.0
+tensorflow      2.5.0
+keras           2.4.3
+seaborn         0.11.1
+jupyter-core    4.7.1
+joblib          1.0.1
+matplotlib      3.3.4
